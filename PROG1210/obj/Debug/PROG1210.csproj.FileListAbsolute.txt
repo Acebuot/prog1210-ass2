@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\Luis1\PROG1210\PROG1210\bin\Debug\SportMotors_12.mdf
+C:\Users\Asus\Desktop\Luis1\PROG1210\PROG1210\bin\Debug\SportMotors_12_log.ldf
+C:\Users\Asus\Desktop\Luis1\PROG1210\PROG1210\bin\Debug\PROG1210.dll.config
+C:\Users\Asus\Desktop\Luis1\PROG1210\PROG1210\bin\Debug\PROG1210.dll
+C:\Users\Asus\Desktop\Luis1\PROG1210\PROG1210\bin\Debug\PROG1210.pdb
+C:\Users\Asus\Desktop\Luis1\PROG1210\PROG1210\obj\Debug\PROG1210.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Luis1\PROG1210\PROG1210\obj\Debug\PROG1210.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Luis1\PROG1210\PROG1210\obj\Debug\PROG1210.dll
+C:\Users\Asus\Desktop\Luis1\PROG1210\PROG1210\obj\Debug\PROG1210.pdb
